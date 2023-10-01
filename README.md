@@ -13,10 +13,12 @@ I'm a passionate backend developer with a strong focus on building robust and sc
 
 Skills: Django / MySQL / Pyhton/Object Oriented Programming/DSA / HTML / CSS/Js/C/C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on student  
+- 🌱 I’m currently learning React JS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shanto202133)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shanto202133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tawhidul-islam-shanto-715836232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tawhidulislam.shanto.7/)  
+
 
 
    
