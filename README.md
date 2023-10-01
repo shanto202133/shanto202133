@@ -5,7 +5,8 @@
 
 Skills: Django / MySQL / Pyhton / HTML / CSS/Js/C/C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently looking for job
+   
 
 
 
