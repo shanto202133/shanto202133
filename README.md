@@ -1,29 +1,19 @@
-### Hi there 👋, my name is Tawhid
-#### I am Backend Developer
-![I am Backend Developer](https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/385464984_1562970917865032_3126230139746280391_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeHI7hMZMcs68U2r0OSaFe1mf-Szc2iAmN5_5LNzaICY3opi6CiStKR7VVMMh35HaJxO-PVJSqzc0wxu92AqWr-6&_nc_ohc=pUN1n1yFskAAX_6XhM8&_nc_ht=scontent.fdac137-1.fna&oh=00_AfCJBYeTqqQMRJUh4cMqJhDv90T2DjuBdGXEoLwBlUxbKQ&oe=651E5C1B)
-
+# 💫 About Me:
 I'm a passionate backend developer with a strong focus on building robust and scalable web applications using Django, a high-level Python web framework. I love turning complex ideas into efficient and maintainable code that powers the digital world.
 
-💼 Currently, I work as a backend developer at [Your Current Company], where I contribute to the development of cutting-edge web applications and backend systems. My responsibilities include designing database schemas, creating RESTful APIs, optimizing performance, and ensuring the security of our applications.
 
-🚀 I am deeply committed to continuous learning and keeping up with the latest industry trends and best practices. My goal is to stay at the forefront of backend development technologies and apply them to create exceptional user experiences.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tawhidulislam.shanto.7) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shanto202133&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shanto202133&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanto202133&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=shanto202133&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-Skills: Django / MySQL / Pyhton/Object Oriented Programming/DSA / HTML / CSS/Js/C/C++
-
-- 🔭 I’m currently working on student  
-- 🌱 I’m currently learning React JS 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shanto202133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tawhidul-islam-shanto-715836232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tawhidulislam.shanto.7/)  
-
-
-
-   
-
-
-
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
